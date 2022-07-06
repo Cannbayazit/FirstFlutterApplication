@@ -1,0 +1,28 @@
+{
+    // Olası öznitelikler hakkında bilgi edinmek için IntelliSense kullanın.
+    // Mevcut özniteliklerin açıklamalarını görüntülemek için üzerine gelin.
+    // Daha fazla bilgi için şu adresi ziyaret edin: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "name": "ogrenci_otomasyon",
+            "cwd": "ogrenci_otomasyon",
+            "request": "launch",
+            "type": "dart"
+        },
+        {
+            "name": "ogrenci_otomasyon (profile mode)",
+            "cwd": "ogrenci_otomasyon",
+            "request": "launch",
+            "type": "dart",
+            "flutterMode": "profile"
+        },
+        {
+            "name": "ogrenci_otomasyon (release mode)",
+            "cwd": "ogrenci_otomasyon",
+            "request": "launch",
+            "type": "dart",
+            "flutterMode": "release"
+        }
+    ]
+}
